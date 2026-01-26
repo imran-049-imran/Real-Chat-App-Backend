@@ -1,8 +1,9 @@
-Real-Chat-App-Backend (AI Resume Builder)
+# Real-Chat-App-Backend
+
 A powerful backend system that helps users generate professional, ATS-friendly resumes using AI.
 Built with Spring Boot, integrated with OpenAI GPT-3.5 / GPT-4 API, and backed by a secure MySQL database.
 
-🏗️ Project Structure
+# Project Structure
 ```
 resume-ai-backend/
 │── src/main/java/com/ai/resume/builder/
