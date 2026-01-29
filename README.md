@@ -1,4 +1,4 @@
-# Real-Chat-App-Backend
+# Real Chat App (Backend)
 
 A powerful backend system that helps users generate professional, ATS-friendly resumes using AI.
 Built with Spring Boot, integrated with OpenAI GPT-3.5 / GPT-4 API, and backed by a secure MySQL database.
