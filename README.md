@@ -73,7 +73,8 @@ mvn spring-boot:run
 
 Code
 http://localhost:8080
-📌 API Endpoints (Sample)
+
+# API Endpoints (Sample)
 Method	Endpoint	Description
 POST	/api/resume/create	Generate a new AI resume
 GET	/api/resume/{id}	Fetch resume by ID
